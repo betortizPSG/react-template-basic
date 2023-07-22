@@ -1,5 +1,31 @@
-# Aplicação template
+# Template básico ReactJS
 
-Esta é uma aplicação gerada pelo template [React básico da Dev Samurai](https://github.com/DevSamurai/cra-template-basic).
+Template simples para iniciar projetos ReactJS.
 
-Depois que criar a sua aplicação, sobrescreva este arquivo README.md utilizando as [melhores práticas](https://www.makeareadme.com/) para isso.
+## Requisitos
+
+- node
+- create-react-app
+- yarn
+
+## Uso
+
+Crie um novo projeto React utilizando o seguinte comando:
+
+```sh
+$ npx create-react-app [ProjectName] --template @devsamurai/basic
+```
+
+Espere a conclusão.
+
+## Dúvidas
+
+Se você curtiu esse projeto ou está com dúvidas acesse:
+
+- O Guia com todo o passo a passo explicativo em https://guia.devsamurai.com.br
+
+## Licença
+
+MIT
+
+npm publish --access public
